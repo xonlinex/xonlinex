@@ -21,7 +21,7 @@
 <!-- GitHub Analytics -->
 <h1 align="center"></h1>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xonlinex&bg_color=0D1117&color=BD93F9&line=8B5CF6&point=FF79C6&area=true&area_color=BD93F920&hide_border=true&custom_title=📊%20Contribution%20Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xonlinex&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&area_color=1F6FEB20&hide_border=true&custom_title=📊%20Contribution%20Graph" width="95%"/>
 </div>
 
 <!-- Social -->
