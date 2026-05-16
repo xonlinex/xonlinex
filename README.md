@@ -45,18 +45,3 @@
   </picture>
 </div>
 
-<!-- Social -->
-<p align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Website-c09058?style=for-the-badge&logo=firefox&logoColor=fff" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-1c1b19?style=for-the-badge&logo=x&logoColor=fff" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Youtube-b07878?style=for-the-badge&logo=youtube&logoColor=fff" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-7890a0?style=for-the-badge&logo=discord&logoColor=fff" />
-  </a>
-</p>
