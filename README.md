@@ -2,7 +2,9 @@
 <p>
   <a href="README.md"><img src="https://img.shields.io/badge/EN-c07040?style=for-the-badge" /></a>
   <a href="README.es.md"><img src="https://img.shields.io/badge/ES-888?style=for-the-badge" /></a>
-  <a href="#--------" align="right"><img src="https://komarev.com/ghpvc/?username=xonlinex&style=for-the-badge&color=c07040&label=PROFILE+VIEWS" align="right" /></a>
+  <a href="#--------" align="right">
+    <img src="https://komarev.com/ghpvc/?username=xonlinex&style=for-the-badge&color=c07040&label=PROFILE+VIEWS" align="right" />
+  </a>
 </p>
 
 <!-- xOnlinEx GitHub Profile -->
@@ -14,17 +16,18 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e08060&center=true&width=460&height=40&lines=Turning+data+into+decisions;Building+intelligent+systems;There%27s+always+something+new+to+learn;Clean+code+is+not+optional"
+        srcset="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e08060&center=true&width=580&height=40&lines=The+only+way+to+learn+to+code+is+to+code;Knowledge+is+power+%C2%B7+share+it;Talk+is+cheap+%C2%B7+show+me+the+code"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=a06030&center=true&width=460&height=40&lines=Turning+data+into+decisions;Building+intelligent+systems;There%27s+always+something+new+to+learn;Clean+code+is+not+optional"
+        srcset="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=a06030&center=true&width=580&height=40&lines=The+only+way+to+learn+to+code+is+to+code;Knowledge+is+power+%C2%B7+share+it;Talk+is+cheap+%C2%B7+show+me+the+code"
       />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e08060&center=true&width=460&height=40&lines=Turning+data+into+decisions;Building+intelligent+systems;There%27s+always+something+new+to+learn;Clean+code+is+not+optional"/>
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e08060&center=true&width=580&height=40&lines=The+only+way+to+learn+to+code+is+to+code;Knowledge+is+power+%C2%B7+share+it;Talk+is+cheap+%C2%B7+show+me+the+code"
+      />
     </picture>
   </samp>
 </p>
-
 <p align="right"><strong><samp>」</samp></strong></p>
 
 <!-- GitHub Analytics -->
@@ -44,4 +47,3 @@
     />
   </picture>
 </div>
-
