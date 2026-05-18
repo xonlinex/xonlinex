@@ -1,8 +1,8 @@
-<!-- Profile Views -->
-<p align="right">
-  <a href="#--------">
-    <img src="https://komarev.com/ghpvc/?username=xonlinex&style=for-the-badge&color=c07040&label=PROFILE+VIEWS" />
-  </a>
+<!-- Language Switch + Profile Views -->
+<p>
+  <a href="README.md"><img src="https://img.shields.io/badge/EN-c07040?style=for-the-badge" /></a>
+  <a href="README.es.md"><img src="https://img.shields.io/badge/ES-888?style=for-the-badge" /></a>
+  <a href="#--------" align="right"><img src="https://komarev.com/ghpvc/?username=xonlinex&style=for-the-badge&color=c07040&label=PROFILE+VIEWS" align="right" /></a>
 </p>
 
 <!-- xOnlinEx GitHub Profile -->
