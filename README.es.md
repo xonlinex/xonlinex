@@ -2,8 +2,11 @@
 <p>
   <a href="README.md"><img src="https://img.shields.io/badge/EN-888?style=for-the-badge" /></a>
   <a href="README.es.md"><img src="https://img.shields.io/badge/ES-c07040?style=for-the-badge" /></a>
-  <a href="#--------" align="right"><img src="https://komarev.com/ghpvc/?username=xonlinex&style=for-the-badge&color=c07040&label=VISITAS+AL+PERFIL" align="right" /></a>
+  <a href="#--------" align="right">
+    <img src="https://komarev.com/ghpvc/?username=xonlinex&style=for-the-badge&color=c07040&label=VISITAS+AL+PERFIL" align="right" />
+  </a>
 </p>
+
 <!-- xOnlinEx GitHub Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
 <p align="center">
@@ -13,17 +16,20 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e08060&center=true&width=460&height=40&lines=Convirtiendo+datos+en+decisiones;Construyendo+sistemas+inteligentes;Siempre+hay+algo+nuevo+por+aprender;El+c%C3%B3digo+limpio+no+es+opcional"
+        srcset="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e08060&center=true&width=580&height=40&lines=El+%C3%BAnico+camino+para+aprender+a+programar+es+programar;El+conocimiento+es+poder+%C2%B7+comp%C3%A1rtelo;Hablar+es+f%C3%A1cil+%C2%B7+mu%C3%A9strame+el+c%C3%B3digo"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=a06030&center=true&width=460&height=40&lines=Convirtiendo+datos+en+decisiones;Construyendo+sistemas+inteligentes;Siempre+hay+algo+nuevo+por+aprender;El+c%C3%B3digo+limpio+no+es+opcional"
+        srcset="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=a06030&center=true&width=580&height=40&lines=El+%C3%BAnico+camino+para+aprender+a+programar+es+programar;El+conocimiento+es+poder+%C2%B7+comp%C3%A1rtelo;Hablar+es+f%C3%A1cil+%C2%B7+mu%C3%A9strame+el+c%C3%B3digo"
       />
-      <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e08060&center=true&width=460&height=40&lines=Convirtiendo+datos+en+decisiones;Construyendo+sistemas+inteligentes;Siempre+hay+algo+nuevo+por+aprender;El+c%C3%B3digo+limpio+no+es+opcional"/>
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e08060&center=true&width=580&height=40&lines=El+%C3%BAnico+camino+para+aprender+a+programar+es+programar;El+conocimiento+es+poder+%C2%B7+comp%C3%A1rtelo;Hablar+es+f%C3%A1cil+%C2%B7+mu%C3%A9strame+el+c%C3%B3digo"
+      />
     </picture>
   </samp>
 </p>
 <p align="right"><strong><samp>」</samp></strong></p>
+
 <!-- GitHub Analytics -->
 <div align="center">
   <picture>
