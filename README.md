@@ -33,11 +33,11 @@
 <!-- Tools -->
 **⚙️ Tools I use daily**
 
-- **OS:** [NixOS](https://nixos.org) — declarative and reproducible
-- **WM:** [Niri](https://github.com/YaLTeR/niri) — scrollable tiling, no constant resizing
-- **Terminal:** [Ghostty](https://ghostty.org) — GPU-accelerated and fast
-- **Shell:** [fish](https://fishshell.com) — great defaults
-- **Editor:** [Neovim](https://neovim.io) — keyboard-driven and customizable
+- **OS:** [NixOS](https://nixos.org) — my entire system with a single command
+- **WM:** [Niri](https://github.com/YaLTeR/niri) — scrollable tiling window manager
+- **Terminal:** [Ghostty](https://ghostty.org) — fast and GPU-accelerated
+- **Shell:** [fish](https://fishshell.com) — already has everything I want
+- **Editor:** [Neovim](https://neovim.io) — typing feels more comfortable
 - **Favorite tech:** Rust, Nix, Go, Python, Java, Spring Boot, Docker
 
 📦 My full system configuration lives [here](https://github.com/xonlinex/shiro).
