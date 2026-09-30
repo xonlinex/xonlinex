@@ -16,14 +16,14 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e6d5c2&center=true&width=580&height=40&lines=Uso+NixOS+btw;nix-shell+-p+coffee;No+es+un+bug%2C+es+una+funcionalidad;%3Aq%21+%28No+puedo+salir+de+Vim%29"
+        srcset="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e6d5c2&center=true&width=580&height=40&lines=I+use+NixOS+btw;nix-shell+-p+coffee;No+es+un+bug%2C+es+una+feature;%3Aq%21+%28No+puedo+salir+de+Vim%29"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=d1766e&center=true&width=580&height=40&lines=Uso+NixOS+btw;nix-shell+-p+coffee;No+es+un+bug%2C+es+una+funcionalidad;%3Aq%21+%28No+puedo+salir+de+Vim%29"
+        srcset="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=d1766e&center=true&width=580&height=40&lines=I+use+NixOS+btw;nix-shell+-p+coffee;No+es+un+bug%2C+es+una+feature;%3Aq%21+%28No+puedo+salir+de+Vim%29"
       />
       <img
-        src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e6d5c2&center=true&width=580&height=40&lines=Uso+NixOS+btw;nix-shell+-p+coffee;No+es+un+bug%2C+es+una+funcionalidad;%3Aq%21+%28No+puedo+salir+de+Vim%29"
+        src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e6d5c2&center=true&width=580&height=40&lines=I+use+NixOS+btw;nix-shell+-p+coffee;No+es+un+bug%2C+es+una+feature;%3Aq%21+%28No+puedo+salir+de+Vim%29"
       />
     </picture>
   </samp>
