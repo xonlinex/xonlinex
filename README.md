@@ -40,7 +40,7 @@
 - **Editor:** [Neovim](https://neovim.io) — typing feels more comfortable
 - **Favorite tech:** rust, nix, go, python, java, spring-boot, docker
 
-📦 My full system configuration lives [here](https://github.com/xonlinex/shiro).
+📦 My full system configuration [here](https://github.com/xonlinex/shiro).
 
 <!-- Stats -->
 <p align="center">
