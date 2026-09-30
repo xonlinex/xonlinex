@@ -38,7 +38,7 @@
 - **Terminal:** [Ghostty](https://ghostty.org) — fast and GPU-accelerated
 - **Shell:** [fish](https://fishshell.com) — already has everything I want
 - **Editor:** [Neovim](https://neovim.io) — typing feels more comfortable
-- **Favorite tech:** Rust, Nix, Go, Python, Java, Spring Boot, Docker
+- **Favorite tech:** rust, nix, go, python, java, spring-boot, docker
 
 📦 My full system configuration lives [here](https://github.com/xonlinex/shiro).
 
