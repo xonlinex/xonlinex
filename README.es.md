@@ -1,9 +1,9 @@
 <!-- Language Switch + Profile Views -->
 <p>
-  <a href="README.md"><img src="https://img.shields.io/badge/EN-888?style=for-the-badge" /></a>
-  <a href="README.es.md"><img src="https://img.shields.io/badge/ES-c07040?style=for-the-badge" /></a>
-  <a href="#--------" align="right">
-    <img src="https://komarev.com/ghpvc/?username=xonlinex&style=for-the-badge&color=c07040&label=VISITAS+AL+PERFIL" align="right" />
+  <a href="README.md"><img src="https://img.shields.io/badge/EN-73665b?style=for-the-badge" /></a>
+  <a href="README.es.md"><img src="https://img.shields.io/badge/ES-d1766e?style=for-the-badge" /></a>
+  <a href="#" align="right">
+    <img src="https://komarev.com/ghpvc/?username=xonlinex&style=for-the-badge&color=d1766e&label=VISITAS+AL+PERFIL" align="right" />
   </a>
 </p>
 
@@ -11,39 +11,53 @@
 <p align="left"><strong><samp>「</samp></strong></p>
 <p align="center">
   <samp>
-    <b>Hola, soy Daniel 👋</b><br>
-    Desarrollador FullStack · Ciencia de Datos · IA/ML<br><br>
+    <b>Hola 👋, soy Daniel</b>
+    <br><br>
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e08060&center=true&width=580&height=40&lines=El+%C3%BAnico+camino+para+aprender+a+programar+es+programar;El+conocimiento+es+poder+%C2%B7+comp%C3%A1rtelo;Hablar+es+f%C3%A1cil+%C2%B7+mu%C3%A9strame+el+c%C3%B3digo"
+        srcset="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e6d5c2&center=true&width=580&height=40&lines=Uso+NixOS+btw;nix-shell+-p+coffee;No+es+un+bug%2C+es+una+funcionalidad;%3Aq%21+%28No+puedo+salir+de+Vim%29"
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=a06030&center=true&width=580&height=40&lines=El+%C3%BAnico+camino+para+aprender+a+programar+es+programar;El+conocimiento+es+poder+%C2%B7+comp%C3%A1rtelo;Hablar+es+f%C3%A1cil+%C2%B7+mu%C3%A9strame+el+c%C3%B3digo"
+        srcset="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=d1766e&center=true&width=580&height=40&lines=Uso+NixOS+btw;nix-shell+-p+coffee;No+es+un+bug%2C+es+una+funcionalidad;%3Aq%21+%28No+puedo+salir+de+Vim%29"
       />
       <img
-        src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e08060&center=true&width=580&height=40&lines=El+%C3%BAnico+camino+para+aprender+a+programar+es+programar;El+conocimiento+es+poder+%C2%B7+comp%C3%A1rtelo;Hablar+es+f%C3%A1cil+%C2%B7+mu%C3%A9strame+el+c%C3%B3digo"
+        src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&color=e6d5c2&center=true&width=580&height=40&lines=Uso+NixOS+btw;nix-shell+-p+coffee;No+es+un+bug%2C+es+una+funcionalidad;%3Aq%21+%28No+puedo+salir+de+Vim%29"
       />
     </picture>
   </samp>
 </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
-<!-- GitHub Analytics -->
-<div align="center">
+<!-- Tools -->
+**⚙️ Herramientas que uso a diario**
+
+- **SO:** [NixOS](https://nixos.org) — todo mi sistema con un solo comando
+- **WM:** [Niri](https://github.com/YaLTeR/niri) — gestor de ventanas de mosaico con scroll
+- **Terminal:** [Ghostty](https://ghostty.org) — rápida y con aceleración por GPU
+- **Shell:** [fish](https://fishshell.com) — ya trae todo lo que quiero
+- **Editor:** [Neovim](https://neovim.io) — es más cómodo teclear
+- **Tecnologías favoritas:** Rust, Nix, Go, Python, Java, Spring Boot, Docker
+
+📦 La configuración completa de mi sistema está [aquí](https://github.com/xonlinex/shiro).
+
+<!-- Stats -->
+<p align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=xonlinex&bg_color=0D1117&color=e08060&line=c09058&point=c8b468&area=true&area_color=c0905820&hide_border=true&custom_title=📊%20Gráfico%20de%20Contribuciones"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=xonlinex&bg_color=faf7f4&color=c07040&line=a07030&point=b09050&area=true&area_color=c0905820&hide_border=true&custom_title=📊%20Gráfico%20de%20Contribuciones"
-    />
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=xonlinex&bg_color=0D1117&color=e08060&line=c09058&point=c8b468&area=true&area_color=c0905820&hide_border=true&custom_title=📊%20Gráfico%20de%20Contribuciones"
-      width="95%"
-    />
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=xonlinex&show_icons=true&hide_border=true&bg_color=171311&title_color=d1766e&text_color=e6d5c2&icon_color=d1766e&ring_color=d1766e&locale=es" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=xonlinex&show_icons=true&hide_border=true&bg_color=e6d5c2&title_color=d1766e&text_color=171311&icon_color=d1766e&ring_color=d1766e&locale=es" />
+    <img height="170"
+      src="https://github-readme-stats.vercel.app/api?username=xonlinex&show_icons=true&hide_border=true&bg_color=171311&title_color=d1766e&text_color=e6d5c2&icon_color=d1766e&ring_color=d1766e&locale=es" />
   </picture>
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xonlinex&layout=compact&hide_border=true&bg_color=171311&title_color=d1766e&text_color=e6d5c2&locale=es" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xonlinex&layout=compact&hide_border=true&bg_color=e6d5c2&title_color=d1766e&text_color=171311&locale=es" />
+    <img height="170"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=xonlinex&layout=compact&hide_border=true&bg_color=171311&title_color=d1766e&text_color=e6d5c2&locale=es" />
+  </picture>
+</p>
