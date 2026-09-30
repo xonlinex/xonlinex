@@ -42,8 +42,6 @@
 
 📦 My full system configuration lives [here](https://github.com/xonlinex/shiro).
 
-<br></br>
-
 <!-- Stats -->
 <p align="center">
   <picture>
