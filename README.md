@@ -2,7 +2,7 @@
 <p>
   <a href="README.md"><img src="https://img.shields.io/badge/EN-d1766e?style=for-the-badge" /></a>
   <a href="README.es.md"><img src="https://img.shields.io/badge/ES-73665b?style=for-the-badge" /></a>
-  <a href="#--------" align="right">
+  <a href="#" align="right">
     <img src="https://komarev.com/ghpvc/?username=xonlinex&style=for-the-badge&color=d1766e&label=PROFILE+VIEWS" align="right" />
   </a>
 </p>
@@ -30,29 +30,7 @@
 </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=xonlinex&show_icons=true&hide_border=true&bg_color=00000000&title_color=d1766e&text_color=e6d5c2&icon_color=d1766e&ring_color=d1766e" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=xonlinex&show_icons=true&hide_border=true&bg_color=00000000&title_color=d1766e&text_color=171311&icon_color=d1766e&ring_color=d1766e" />
-    <img height="170"
-      src="https://github-readme-stats.vercel.app/api?username=xonlinex&show_icons=true&hide_border=true&bg_color=00000000&title_color=d1766e&text_color=e6d5c2&icon_color=d1766e&ring_color=d1766e" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xonlinex&layout=compact&hide_border=true&bg_color=00000000&title_color=d1766e&text_color=e6d5c2" />
-    <source media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xonlinex&layout=compact&hide_border=true&bg_color=00000000&title_color=d1766e&text_color=171311" />
-    <img height="170"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=xonlinex&layout=compact&hide_border=true&bg_color=00000000&title_color=d1766e&text_color=e6d5c2" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xonlinex&theme=dark" />
-</p>
-
+<!-- Tools -->
 **⚙️ Tools I use daily**
 
 - **OS:** [NixOS](https://nixos.org) — declarative and reproducible
@@ -63,3 +41,25 @@
 - **Favorite tech:** Rust, Nix, Go, Python, Java, Spring Boot, Docker
 
 📦 My full system configuration lives [here](https://github.com/xonlinex/shiro).
+
+<br></br>
+
+<!-- Stats -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=xonlinex&show_icons=true&hide_border=true&bg_color=171311&title_color=d1766e&text_color=e6d5c2&icon_color=d1766e&ring_color=d1766e" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=xonlinex&show_icons=true&hide_border=true&bg_color=e6d5c2&title_color=d1766e&text_color=171311&icon_color=d1766e&ring_color=d1766e" />
+    <img height="170"
+      src="https://github-readme-stats.vercel.app/api?username=xonlinex&show_icons=true&hide_border=true&bg_color=171311&title_color=d1766e&text_color=e6d5c2&icon_color=d1766e&ring_color=d1766e" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xonlinex&layout=compact&hide_border=true&bg_color=171311&title_color=d1766e&text_color=e6d5c2" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=xonlinex&layout=compact&hide_border=true&bg_color=e6d5c2&title_color=d1766e&text_color=171311" />
+    <img height="170"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=xonlinex&layout=compact&hide_border=true&bg_color=171311&title_color=d1766e&text_color=e6d5c2" />
+  </picture>
+</p>
